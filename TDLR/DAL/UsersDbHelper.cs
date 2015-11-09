@@ -4,7 +4,6 @@ using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using Tdlr.Models;
-using System.Data.Entity;
 
 namespace Tdlr.DAL
 {
